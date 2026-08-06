@@ -12,7 +12,7 @@ I am an IT student and Front-End Developer passionate about building modern, use
 ---
 
 ### 🛠️ Tech Stack
-`TypeScript` · `JavaScript` · `Git & GitHub` · `SQL`
+`React.js` · `TypeScript` · `JavaScript` · `Git & GitHub` · `SQL`
 
 ---
 
