@@ -11,12 +11,12 @@ I am an IT student and Front-End Developer passionate about building modern, use
 
 ---
 
-### 🛠️ Tech Stack
-`React.js` · `TypeScript` · `JavaScript` · `Git & GitHub` · `SQL`
+### 🚀 Featured Projects
+* 📌 **[project-CUPPR](https://github.com/Maryama22/project-CUPPR)** — Web-based academic repository platform.
+* 📌 **[calculator](https://github.com/Maryama22/calculator)** — Interactive calculator web application.
+
 
 ---
 
-### 📫 Contact 
-* ✉️ **Email:** [Maryanabdihussein514@gmail.com](mailto:Maryanabdihussein514@gmail.com)
-
-*Open to software engineering opportunities, open-source projects, and technical collaborations!*
+### 🛠️ Tech Stack
+`React.js` · `TypeScript` · `JavaScript` · `Git & GitHub` · `SQL`
